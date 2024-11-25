@@ -2,9 +2,9 @@
 Anthony Duran
 11/25/2024 
 
-Peer Reviewed By: 
+Peer Reviewed By: Gianpaolo Reinares
 
-Comment: 
+Comment: Color Changing Function works great; I love the bonus colors; However, the Reset Button does not function; Try to get that fixed.
 
 ____________________________________________________________________________________________________________
 
